@@ -234,3 +234,9 @@ div:hover span:nth-child(4) {
     width: 75%;
     color: #7C7D7F;
 }
+
+.ussd em {
+    float: right;
+    color: #9c836e;
+    font-weight: bold;
+}
